@@ -37,7 +37,7 @@ const developersArray = [
 	{ name: 'hideo', language: 'javascript' },
 ];
 
-// Question 5: Given the array of developer objects above, write the callback
+// BONUS!!!!! Given the array of developer objects above, write the callback
 // function for reduce to return an object that has two keys, 'javascript' and
 // 'python'.
 
