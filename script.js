@@ -54,4 +54,4 @@ const developersArray = [
   python: 3
 }
 */
-const developersObject = developersArray.reduce(() => {}, {});
+const devLanguageCounts = developersArray.reduce(() => {}, {});
