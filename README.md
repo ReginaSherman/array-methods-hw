@@ -13,7 +13,7 @@
 1. Fork and clone this repository.
 2. Change into the new directory.
 3. Fulfill the listed requirements, and commit after solving each question!
-4. Starter code is available in [lib/script.js](lib/script.js) and [lib/bachelor.js](lib/bachelor.js). The JS files are already linked to your HTML.
+4. Starter code is available in [lib/callbacks.js](lib/callbacks.js) and [lib/bachelor.js](lib/bachelor.js). The JS files are already linked to your HTML.
 5. Make a commit after completing each prompt.
 6. You are required to turn in your submission by making a pull request on the original repository.
 
@@ -28,9 +28,9 @@ To prepare for tomorrow's material, check out the following videos:
 
 ## Requirements
 
-A series of prompts are located in the `script.js` and `bachelor.js` files.
+A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
 
-- In `script.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
+- In `callbacks.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
 - In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 🌶️🌶️
 
 Complete each prompt and **commit after each one!**
