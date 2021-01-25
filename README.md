@@ -13,7 +13,7 @@
 1. Fork and clone this repository.
 2. Change into the new directory.
 3. Fulfill the listed requirements, and commit after solving each question!
-4. Starter code is available in script.js. The JS file is already linked to your HTML.
+4. Starter code is available in [lib/script.js](lib/script.js) and [lib/bachelor.js](lib/bachelor.js). The JS files are already linked to your HTML.
 5. Make a commit after completing each prompt.
 6. You are required to turn in your submission by making a pull request on the original repository.
 
@@ -28,17 +28,18 @@ To prepare for tomorrow's material, check out the following videos:
 
 ## Requirements
 
-A series of prompts are located in the `script.js` file. Complete each prompt and **commit after each one!**
+A series of prompts are located in the `script.js` and `bachelor.js` files.
+
+- In `script.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
+- In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 🌶️🌶️
+
+Complete each prompt and **commit after each one!**
 
 ## Tips
 
 - Make sure you are committing your code after completing each question.
 - Open the index.html file in Google Chrome to view your console.log() messages.
 - Focus on completing one prompt at a time, and comment out your code and console.log()s for other prompts.
-
-## Too Easy?
-
-Check out this [repo](https://git.generalassemb.ly/sei-921/array-methods-practice) for more Array Methods practice!
 
 ## Plagiarism
 
