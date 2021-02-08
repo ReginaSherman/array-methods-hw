@@ -33,13 +33,22 @@ A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
 - In `callbacks.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
 - In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 🌶️🌶️
 
-Complete each prompt and **commit after each one!**
+**Remember to make a commit after each prompt and push your code up regularly.**
+
+### Optional:
+
+**If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
+
+1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
+1. Comment IN the module.exports at the bottom of the `challenge.js` file if you commented them out.
+1. Run `npm test` in this directory. Read the output to checkout which tests your code is passing and failing.
+1. If there are any errors, try fixing them and running the code again.
+1. Keep module.exports commented-in when you submit your homework!
 
 ## Tips
 
 - Make sure you are committing your code after completing each question.
 - Open the index.html file in Google Chrome to view your console.log() messages.
-- Focus on completing one prompt at a time, and comment out your code and console.log()s for other prompts.
 
 ## Plagiarism
 
