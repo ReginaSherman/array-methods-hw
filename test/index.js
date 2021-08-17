@@ -4,7 +4,6 @@ const {
 	wordsWithLessThanFourLetters,
 	doesEveryWordContainA,
 	doesAnyWordContainX,
-	devLanguageCounts,
 } = require('../lib/callbacks');
 const {
 	numberOfContestantsFromCalifornia,
@@ -12,7 +11,6 @@ const {
 	contestantsArrayWithIcebreakers,
 	areThereContestantsFromMI,
 	firstAries,
-	zodiacSignCount,
 } = require('../lib/bachelor');
 
 describe('callbacks.js:', () => {
@@ -37,14 +35,6 @@ describe('callbacks.js:', () => {
 
 	it('Question 4: should use .some() to check if any words contain the letter "x"', () => {
 		expect(doesAnyWordContainX).to.be.true;
-	});
-
-	it('Question 5: should use .reduce() to return an object with language counts', () => {
-		expect(devLanguageCounts).to.be.an('object');
-		expect(devLanguageCounts).to.deep.equal({
-			javascript: 4,
-			python: 3,
-		});
 	});
 });
 
@@ -157,17 +147,5 @@ describe('bachelor.js:', () => {
 		expect(firstAries).to.deep.equal(
 			'Hi, my name is Yasmein A. from Santa Barbara, and I was the first to sign up!'
 		);
-	});
-
-	it('Bonus (optional): should return an object with the breakdown of Zodiac signs of contestants', () => {
-		expect(zodiacSignCount).to.be.an('object');
-		expect(zodiacSignCount).to.deep.equal({
-			Aries: 3,
-			Gemini: 1,
-			Scorpio: 1,
-			Aquarius: 1,
-			Libra: 1,
-			Pisces: 1,
-		});
 	});
 });

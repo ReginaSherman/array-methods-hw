@@ -19,13 +19,6 @@
 
 Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 10:00am EST.
 
-### Preview Tomorrow's Content
-
-To prepare for tomorrow's material, check out the following videos:
-
-- [JS DOM](https://www.youtube.com/watch?v=FIORjGvT0kk)
-- [JS Events](https://www.youtube.com/watch?v=EaRrmOtPYTM)
-
 ## Requirements
 
 A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
@@ -33,22 +26,30 @@ A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
 - In `callbacks.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
 - In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 🌶️🌶️
 
+Minimum passing requirements:
+
+- The JavaScript files and `npm test` must run without errors.
+- Tests for at least 7 out of 9 tests must pass.
+
 **Remember to make a commit after each prompt and push your code up regularly.**
 
-### Optional:
+### Tests:
 
-**If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
-
-1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
-1. Comment IN the module.exports at the bottom of the `challenge.js` file if you commented them out.
+1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (Mocha and Chai).
 1. Run `npm test` in this directory. Read the output to checkout which tests your code is passing and failing.
 1. If there are any errors, try fixing them and running the code again.
-1. Keep module.exports commented-in when you submit your homework!
 
 ## Tips
 
 - Make sure you are committing your code after completing each question.
 - Open the index.html file in Google Chrome to view your console.log() messages.
+
+### Preview Tomorrow's Content
+
+To prepare for tomorrow's material, check out the following videos:
+
+- [JS DOM](https://www.youtube.com/watch?v=FIORjGvT0kk)
+- [JS Events](https://www.youtube.com/watch?v=EaRrmOtPYTM)
 
 ## Plagiarism
 
