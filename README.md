@@ -29,7 +29,7 @@ A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
 Minimum passing requirements:
 
 - The JavaScript files and `npm test` must run without errors.
-- Tests for at least 7 out of 9 tests must pass.
+- Tests for at least 6 out of 9 prompts must pass.
 
 **Remember to make a commit after each prompt and push your code up regularly.**
 
