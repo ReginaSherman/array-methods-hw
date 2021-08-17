@@ -23,8 +23,8 @@ Unless otherwise specified on the calendar or by an instructor, homework is due 
 
 A series of prompts are located in the `callbacks.js` and `bachelor.js` files.
 
-- In `callbacks.js`, practice writing the logic in the callback functions to make each of the array methods work. 🌶️
-- In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 🌶️🌶️
+- In `callbacks.js`, practice writing the logic in the callback functions to make each of the array methods work. 
+- In `bachelor.js`, practice choosing appropriate array methods and writing out the logic to find the required information. 
 
 Minimum passing requirements:
 
